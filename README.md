@@ -10,7 +10,7 @@ This repository emphasizes **conceptual clarity, algorithmic intuition, and syst
 
 ---
 📁 **ML-Arena Folder Structure**
-
+```
 ML-Arena/
 │
 ├── README.md
@@ -122,7 +122,7 @@ ML-Arena/
     └── Cross_Validation/
         └── ...
 
-
+```
 ---
 
 ## 🌐 Useful Resources & References
